@@ -1,0 +1,5 @@
+__pycache__/
+venv/
+
+# Run it and see the output yourself!
+output.txt

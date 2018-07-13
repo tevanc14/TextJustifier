@@ -1,0 +1,2 @@
+LINE_WIDTH = 50
+SPACE = '  '
